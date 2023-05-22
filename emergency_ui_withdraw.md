@@ -9,7 +9,7 @@ Running this now will render no value and just cost gas.
 # Burning your bb-e-usd  using the UI
 OpCo has finished their work on the UI changes to allow full withdraw from bb-e-usd.  Here are the steps to follow:
 
-You should get arounnd 32 to 33 cents per bb--e-usd out.  The USDT burns to very little withdrawable tokens and is really in no case worth the gas.
+You should get around 32 to 33 cents per bb--e-usd out.  The USDT burns to very little withdrawable tokens and is really in no case worth the gas.
 
 
 ### Following the TX
