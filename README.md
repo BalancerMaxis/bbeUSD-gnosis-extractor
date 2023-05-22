@@ -1,3 +1,10 @@
+# But wait ser
+As per [BIP-299](https://forum.balancer.fi/t/bip-299-permissioned-arbitrage-to-recover-remaining-funds-in-bb-e-usd/4783) the remaining value of bb-e-usd has been arbed out of the pool by the DAO.
+
+Further notice here will be posted about the governance to follow which will distribute the proceeds of this action to remaining bb-e-USD hodlers at the time of the arbitrage.
+
+Running anything here now will render no value and just cost gas.
+
 ## bb-e-usd liquid dollar extraction POC
 
 [See Here](etherscan_warrior.md) for instructions how to run this PoC using etherscan.  Below are instructions for how to execute on a multisig and/or fork.

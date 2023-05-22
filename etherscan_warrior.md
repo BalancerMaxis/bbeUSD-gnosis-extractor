@@ -1,3 +1,10 @@
+# But wait ser
+As per [BIP-299](https://forum.balancer.fi/t/bip-299-permissioned-arbitrage-to-recover-remaining-funds-in-bb-e-usd/4783) the remaining value of bb-e-usd has been arbed out of the pool by the DAO.
+
+Further notice here will be posted about the governance to follow which will distribute the proceeds of this action to remaining bb-e-USD hodlers at the time of the arbitrage.
+
+Running this now will render no value and just cost gas.
+
 # Burning your bb-e-usd for the etherscan warrior
 There's a lot of steps here, but you can do it.  Good luck.  The ability to do this all via the UI is comming soon.  If you get stuck you will be able to finish with the UI later.  Make VERY SURE to always enter your own address as the **sender** and **recipient** in the etherscan transactions and you're tokens will remain in your possesion.  No approvals are required.
 
